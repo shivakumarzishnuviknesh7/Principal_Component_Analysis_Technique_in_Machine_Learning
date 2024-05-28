@@ -1,0 +1,1 @@
+It's a logistic regression machine learning project that uses PCA (Principal Component Analysis) in the data preprocessing phase to reduce the number of features from many dimensions to two dimensions. This process aims to make the training of the model faster and improve its efficiency.
